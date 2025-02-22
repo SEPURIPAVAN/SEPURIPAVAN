@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm S Pavan</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | HTML | CSS | JS | Mastering DSA <br/> Aspiring Software Engineer</h3>
 
-- I’m currently learning **Java (Data Structures and Algorithms), Next.JS** <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEPURIPAVAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+- I’m currently learning **Java (Data Structures and Algorithms), Next.JS**  
 
 - How to reach me : **spavancode@gmail.com**
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEPURIPAVAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
