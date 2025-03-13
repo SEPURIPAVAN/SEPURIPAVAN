@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm S Pavan</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | HTML | CSS | JS | Mastering DSA <br/> Aspiring Software Engineer</h3>
 
-- I’m currently learning **Java (Data Structures and Algorithms), Next.JS**  
+- I’m currently learning **Java (Data Structures and Algorithms), Node.JS**  
 
 - How to reach me : **spavancode@gmail.com**
 
