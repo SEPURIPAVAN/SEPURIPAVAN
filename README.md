@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S Pavan</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | HTML | CSS | JS | Mastering DSA <br/> Aspiring Software Engineer</h3>
+<h3 align="center">CSE Undergrad | Full-Stack Web Developer | Aspiring Software Engineer | Mastering DSA</h3>
 
 - I’m currently learning **Java (Data Structures and Algorithms), Node.JS**  
 
