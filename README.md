@@ -3,7 +3,7 @@
 
 - I’m currently learning **Java (Data Structures and Algorithms), Node.JS**  
 
-- How to reach me : **spavancode@gmail.com**
+- How to reach me : **pavansepuri@gmail.com**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEPURIPAVAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
